@@ -1,0 +1,274 @@
+[
+    {
+        "appointment_id": 1,
+        "patient_name": "John",
+        "doctor": "Dr. Jones",
+        "date": "2025-06-11",
+        "status": null,
+        "billed_amount": ""
+    },
+    {
+        "appointment_id": 2,
+        "patient_name": "Daisy",
+        "doctor": "",
+        "date": null,
+        "status": "Cancelled",
+        "billed_amount": 200.0
+    },
+    {
+        "appointment_id": 3,
+        "patient_name": "Alice",
+        "doctor": "Dr. Jones",
+        "date": "",
+        "status": null,
+        "billed_amount": 0
+    },
+    {
+        "appointment_id": 4,
+        "patient_name": "",
+        "doctor": "Dr. Patel",
+        "date": "",
+        "status": "No Show",
+        "billed_amount": 200.0
+    },
+    {
+        "appointment_id": 5,
+        "patient_name": "Charlie",
+        "doctor": "Dr. Patel",
+        "date": "2025-06-11",
+        "status": "Cancelled",
+        "billed_amount": 150.0
+    },
+    {
+        "appointment_id": 6,
+        "patient_name": "Ivan",
+        "doctor": "Dr. Jones",
+        "date": "2025-06-11",
+        "status": "No Show",
+        "billed_amount": 200.0
+    },
+    {
+        "appointment_id": 7,
+        "patient_name": "Daisy",
+        "doctor": "",
+        "date": null,
+        "status": null,
+        "billed_amount": ""
+    },
+    {
+        "appointment_id": 8,
+        "patient_name": "Alice",
+        "doctor": "Dr. Jones",
+        "date": "",
+        "status": "Cancelled",
+        "billed_amount": ""
+    },
+    {
+        "appointment_id": 9,
+        "patient_name": "Charlie",
+        "doctor": "Dr. Patel",
+        "date": "",
+        "status": "No Show",
+        "billed_amount": 150.0
+    },
+    {
+        "appointment_id": 10,
+        "patient_name": "Ivan",
+        "doctor": "Dr. Jones",
+        "date": null,
+        "status": null,
+        "billed_amount": 200.0
+    },
+    {
+        "appointment_id": 11,
+        "patient_name": "Charlie",
+        "doctor": "Dr. Patel",
+        "date": "2025-06-11",
+        "status": "No Show",
+        "billed_amount": 200.0
+    },
+    {
+        "appointment_id": 12,
+        "patient_name": "Frank",
+        "doctor": "",
+        "date": null,
+        "status": null,
+        "billed_amount": ""
+    },
+    {
+        "appointment_id": 13,
+        "patient_name": "Daisy",
+        "doctor": "",
+        "date": "2025-06-11",
+        "status": "No Show",
+        "billed_amount": ""
+    },
+    {
+        "appointment_id": 14,
+        "patient_name": "Eve",
+        "doctor": "Dr. Jones",
+        "date": "2025-06-11",
+        "status": null,
+        "billed_amount": 0
+    },
+    {
+        "appointment_id": 15,
+        "patient_name": "Bob",
+        "doctor": "",
+        "date": "",
+        "status": "No Show",
+        "billed_amount": 150.0
+    },
+    {
+        "appointment_id": 16,
+        "patient_name": "Grace",
+        "doctor": "Dr. Smith",
+        "date": "2025-06-10",
+        "status": null,
+        "billed_amount": 150.0
+    },
+    {
+        "appointment_id": 17,
+        "patient_name": "Charlie",
+        "doctor": "",
+        "date": "2025-06-10",
+        "status": null,
+        "billed_amount": 150.0
+    },
+    {
+        "appointment_id": 18,
+        "patient_name": "Grace",
+        "doctor": "Dr. Patel",
+        "date": null,
+        "status": "No Show",
+        "billed_amount": ""
+    },
+    {
+        "appointment_id": 19,
+        "patient_name": "Ivan",
+        "doctor": "Dr. Smith",
+        "date": "",
+        "status": "Completed",
+        "billed_amount": 0
+    },
+    {
+        "appointment_id": 20,
+        "patient_name": "",
+        "doctor": "Dr. Jones",
+        "date": "2025-06-10",
+        "status": null,
+        "billed_amount": 200.0
+    },
+    {
+        "appointment_id": 21,
+        "patient_name": "Grace",
+        "doctor": "",
+        "date": "2025-06-11",
+        "status": "Completed",
+        "billed_amount": 0
+    },
+    {
+        "appointment_id": 22,
+        "patient_name": "Bob",
+        "doctor": "Dr. Jones",
+        "date": null,
+        "status": null,
+        "billed_amount": 0
+    },
+    {
+        "appointment_id": 23,
+        "patient_name": "Bob",
+        "doctor": "Dr. Patel",
+        "date": "",
+        "status": "Completed",
+        "billed_amount": ""
+    },
+    {
+        "appointment_id": 24,
+        "patient_name": "Ivan",
+        "doctor": "",
+        "date": "2025-06-10",
+        "status": null,
+        "billed_amount": 200.0
+    },
+    {
+        "appointment_id": 25,
+        "patient_name": "Eve",
+        "doctor": "",
+        "date": "",
+        "status": null,
+        "billed_amount": ""
+    },
+    {
+        "appointment_id": 26,
+        "patient_name": "",
+        "doctor": "",
+        "date": "",
+        "status": "Completed",
+        "billed_amount": 150.0
+    },
+    {
+        "appointment_id": 27,
+        "patient_name": "Bob",
+        "doctor": "Dr. Smith",
+        "date": "2025-06-11",
+        "status": "Cancelled",
+        "billed_amount": 150.0
+    },
+    {
+        "appointment_id": 28,
+        "patient_name": "Frank",
+        "doctor": "Dr. Patel",
+        "date": "2025-06-11",
+        "status": null,
+        "billed_amount": 200.0
+    },
+    {
+        "appointment_id": 29,
+        "patient_name": "",
+        "doctor": "Dr. Jones",
+        "date": "2025-06-11",
+        "status": "Cancelled",
+        "billed_amount": 0
+    },
+    {
+        "appointment_id": 30,
+        "patient_name": "",
+        "doctor": "Dr. Smith",
+        "date": "2025-06-11",
+        "status": "Completed",
+        "billed_amount": ""
+    },
+    {
+        "appointment_id": 31,
+        "patient_name": "",
+        "doctor": "Dr. Jones",
+        "date": null,
+        "status": "No Show",
+        "billed_amount": 0
+    },
+    {
+        "appointment_id": 32,
+        "patient_name": "Grace",
+        "doctor": "Dr. Smith",
+        "date": "2025-06-10",
+        "status": "No Show",
+        "billed_amount": 200.0
+    },
+    {
+        "appointment_id": 33,
+        "patient_name": "Frank",
+        "doctor": "Dr. Patel",
+        "date": "2025-06-10",
+        "status": "Cancelled",
+        "billed_amount": ""
+    },
+    {
+        "appointment_id": 34,
+        "patient_name": "Ivan",
+        "doctor": "",
+        "date": "",
+        "status": "Cancelled",
+        "billed_amount": ""
+    }
+]

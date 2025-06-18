@@ -1,0 +1,177 @@
+[
+    {
+        "item_id": 1,
+        "item_name": "Headphones",
+        "stock": 10,
+        "price_per_unit": 350,
+        "category": "Home"
+    },
+    {
+        "item_id": 2,
+        "item_name": "Laptop",
+        "stock": 20,
+        "price_per_unit": 350,
+        "category": "Books"
+    },
+    {
+        "item_id": 3,
+        "item_name": "Monitor",
+        "stock": null,
+        "price_per_unit": "",
+        "category": "Books"
+    },
+    {
+        "item_id": 4,
+        "item_name": "Headphones",
+        "stock": 20,
+        "price_per_unit": 0,
+        "category": "Home"
+    },
+    {
+        "item_id": 5,
+        "item_name": "Headphones",
+        "stock": 20,
+        "price_per_unit": 200,
+        "category": "Home"
+    },
+    {
+        "item_id": 6,
+        "item_name": "Speaker",
+        "stock": 0,
+        "price_per_unit": 150,
+        "category": ""
+    },
+    {
+        "item_id": 7,
+        "item_name": "Mouse",
+        "stock": 20,
+        "price_per_unit": 200,
+        "category": "Electronics"
+    },
+    {
+        "item_id": 8,
+        "item_name": "Mouse",
+        "stock": 10,
+        "price_per_unit": 200,
+        "category": "Books"
+    },
+    {
+        "item_id": 9,
+        "item_name": "Laptop",
+        "stock": 0,
+        "price_per_unit": 150,
+        "category": "Fashion"
+    },
+    {
+        "item_id": 10,
+        "item_name": "Tablet",
+        "stock": 10,
+        "price_per_unit": "",
+        "category": "Fashion"
+    },
+    {
+        "item_id": 11,
+        "item_name": "Charger",
+        "stock": null,
+        "price_per_unit": 150,
+        "category": "Electronics"
+    },
+    {
+        "item_id": 12,
+        "item_name": "Speaker",
+        "stock": 0,
+        "price_per_unit": 200,
+        "category": "Home"
+    },
+    {
+        "item_id": 13,
+        "item_name": "",
+        "stock": -5,
+        "price_per_unit": 0,
+        "category": "Home"
+    },
+    {
+        "item_id": 14,
+        "item_name": "Tablet",
+        "stock": -5,
+        "price_per_unit": 150,
+        "category": "Books"
+    },
+    {
+        "item_id": 15,
+        "item_name": "Mouse",
+        "stock": 10,
+        "price_per_unit": 350,
+        "category": "Electronics"
+    },
+    {
+        "item_id": 16,
+        "item_name": "Speaker",
+        "stock": -5,
+        "price_per_unit": 200,
+        "category": "Home"
+    },
+    {
+        "item_id": 17,
+        "item_name": "Tablet",
+        "stock": 20,
+        "price_per_unit": 150,
+        "category": "Toys"
+    },
+    {
+        "item_id": 18,
+        "item_name": "Speaker",
+        "stock": 20,
+        "price_per_unit": "",
+        "category": "Fashion"
+    },
+    {
+        "item_id": 19,
+        "item_name": "Smartphone",
+        "stock": 0,
+        "price_per_unit": 0,
+        "category": "Fashion"
+    },
+    {
+        "item_id": 20,
+        "item_name": "Speaker",
+        "stock": null,
+        "price_per_unit": 200,
+        "category": "Home"
+    },
+    {
+        "item_id": 21,
+        "item_name": "Mouse",
+        "stock": 0,
+        "price_per_unit": 0,
+        "category": "Fashion"
+    },
+    {
+        "item_id": 22,
+        "item_name": "Tablet",
+        "stock": 0,
+        "price_per_unit": 350,
+        "category": "Toys"
+    },
+    {
+        "item_id": 23,
+        "item_name": "Charger",
+        "stock": -5,
+        "price_per_unit": 350,
+        "category": "Electronics"
+    },
+    {
+        "item_id": 24,
+        "item_name": "Keyboard",
+        "stock": 0,
+        "price_per_unit": "",
+        "category": "Fashion"
+    },
+    {
+        "item_id": 25,
+        "item_name": "Charger",
+        "stock": null,
+        "price_per_unit": 350,
+        "category": "Toys"
+    }
+]

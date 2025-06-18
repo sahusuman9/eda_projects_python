@@ -1,0 +1,191 @@
+[
+    {
+        "feedback_id": 1,
+        "customer_name": "Alice",
+        "product": "Charger",
+        "rating": 1,
+        "feedback": "Average"
+    },
+    {
+        "feedback_id": 3,
+        "customer_name": "Daisy",
+        "product": "Keyboard",
+        "rating": 4,
+        "feedback": "Bad"
+    },
+    {
+        "feedback_id": 5,
+        "customer_name": "Alice",
+        "product": "Smartphone",
+        "rating": 4,
+        "feedback": "Good"
+    },
+    {
+        "feedback_id": 6,
+        "customer_name": "John",
+        "product": "Laptop",
+        "rating": 2,
+        "feedback": "Average"
+    },
+    {
+        "feedback_id": 8,
+        "customer_name": "Daisy",
+        "product": "Smartphone",
+        "rating": 5,
+        "feedback": "No Feedback"
+    },
+    {
+        "feedback_id": 9,
+        "customer_name": "Grace",
+        "product": "Mouse",
+        "rating": 4,
+        "feedback": "No Feedback"
+    },
+    {
+        "feedback_id": 10,
+        "customer_name": "Ivan",
+        "product": "Laptop",
+        "rating": 2,
+        "feedback": "Good"
+    },
+    {
+        "feedback_id": 11,
+        "customer_name": "Bob",
+        "product": "Laptop",
+        "rating": 1,
+        "feedback": "Good"
+    },
+    {
+        "feedback_id": 12,
+        "customer_name": "John",
+        "product": "Smartphone",
+        "rating": 5,
+        "feedback": "Average"
+    },
+    {
+        "feedback_id": 14,
+        "customer_name": "Charlie",
+        "product": "Speaker",
+        "rating": 1,
+        "feedback": "No Feedback"
+    },
+    {
+        "feedback_id": 16,
+        "customer_name": "Bob",
+        "product": "Speaker",
+        "rating": 5,
+        "feedback": "Average"
+    },
+    {
+        "feedback_id": 17,
+        "customer_name": "Ivan",
+        "product": "Laptop",
+        "rating": 2,
+        "feedback": "No Feedback"
+    },
+    {
+        "feedback_id": 18,
+        "customer_name": "Ivan",
+        "product": "Charger",
+        "rating": 1,
+        "feedback": "No Feedback"
+    },
+    {
+        "feedback_id": 19,
+        "customer_name": "John",
+        "product": "Keyboard",
+        "rating": 1,
+        "feedback": "No Feedback"
+    },
+    {
+        "feedback_id": 20,
+        "customer_name": "Daisy",
+        "product": "Smartphone",
+        "rating": 1,
+        "feedback": "No Feedback"
+    },
+    {
+        "feedback_id": 21,
+        "customer_name": "John",
+        "product": "Mouse",
+        "rating": 3,
+        "feedback": "Average"
+    },
+    {
+        "feedback_id": 23,
+        "customer_name": "Eve",
+        "product": "Monitor",
+        "rating": 5,
+        "feedback": "Bad"
+    },
+    {
+        "feedback_id": 27,
+        "customer_name": "Bob",
+        "product": "Tablet",
+        "rating": 4,
+        "feedback": "No Feedback"
+    },
+    {
+        "feedback_id": 28,
+        "customer_name": "Bob",
+        "product": "Charger",
+        "rating": 5,
+        "feedback": "No Feedback"
+    },
+    {
+        "feedback_id": 30,
+        "customer_name": "Ivan",
+        "product": "Speaker",
+        "rating": 3,
+        "feedback": "No Feedback"
+    },
+    {
+        "feedback_id": 32,
+        "customer_name": "Grace",
+        "product": "Speaker",
+        "rating": 2,
+        "feedback": "No Feedback"
+    },
+    {
+        "feedback_id": 33,
+        "customer_name": "Grace",
+        "product": "Mouse",
+        "rating": 4,
+        "feedback": "Bad"
+    },
+    {
+        "feedback_id": 34,
+        "customer_name": "Grace",
+        "product": "Tablet",
+        "rating": 1,
+        "feedback": "Good"
+    },
+    {
+        "feedback_id": 35,
+        "customer_name": "John",
+        "product": "Speaker",
+        "rating": 3,
+        "feedback": "Bad"
+    },
+    {
+        "feedback_id": 36,
+        "customer_name": "Eve",
+        "product": "Headphones",
+        "rating": 5,
+        "feedback": "Bad"
+    },
+    {
+        "feedback_id": 37,
+        "customer_name": "Alice",
+        "product": "Laptop",
+        "rating": 4,
+        "feedback": "Average"
+    },
+    {
+        "feedback_id": 40,
+        "customer_name": "John",
+        "product": "Laptop",
+        "rating": 5,
+        "feedback": "Good"
+    }
+]

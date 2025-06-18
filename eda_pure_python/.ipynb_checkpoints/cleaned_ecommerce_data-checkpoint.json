@@ -1,0 +1,425 @@
+[
+    {
+        "transaction_id": 1,
+        "customer_name": "Bob",
+        "product": "Monitor",
+        "price": 622.33,
+        "category": "",
+        "quantity": 3,
+        "is_returned": "yes"
+    },
+    {
+        "transaction_id": 2,
+        "customer_name": "Bob",
+        "product": "Charger",
+        "price": 1075.14,
+        "category": "Fashion",
+        "quantity": 5,
+        "is_returned": false
+    },
+    {
+        "transaction_id": 3,
+        "customer_name": "Eve",
+        "product": "Mouse",
+        "price": 188.04,
+        "category": "Toys",
+        "quantity": 1,
+        "is_returned": "no"
+    },
+    {
+        "transaction_id": 4,
+        "customer_name": "",
+        "product": "Headphones",
+        "price": 883.6,
+        "category": "Toys",
+        "quantity": 4,
+        "is_returned": "no"
+    },
+    {
+        "transaction_id": 5,
+        "customer_name": "",
+        "product": "Tablet",
+        "price": 589.37,
+        "category": "Fashion",
+        "quantity": 3,
+        "is_returned": false
+    },
+    {
+        "transaction_id": 6,
+        "customer_name": "John",
+        "product": "Speaker",
+        "price": 1539.44,
+        "category": "Toys",
+        "quantity": 5,
+        "is_returned": null
+    },
+    {
+        "transaction_id": 7,
+        "customer_name": "Charlie",
+        "product": "Smartphone",
+        "price": "",
+        "category": "Toys",
+        "quantity": 5,
+        "is_returned": null
+    },
+    {
+        "transaction_id": 8,
+        "customer_name": "Charlie",
+        "product": "Tablet",
+        "price": 1213.25,
+        "category": "Fashion",
+        "quantity": 5,
+        "is_returned": "yes"
+    },
+    {
+        "transaction_id": 9,
+        "customer_name": "Daisy",
+        "product": "Mouse",
+        "price": 1324.05,
+        "category": "Home",
+        "quantity": 4,
+        "is_returned": null
+    },
+    {
+        "transaction_id": 10,
+        "customer_name": "Eve",
+        "product": "Tablet",
+        "price": 1316.74,
+        "category": "Fashion",
+        "quantity": 4,
+        "is_returned": "no"
+    },
+    {
+        "transaction_id": 11,
+        "customer_name": "Bob",
+        "product": "Keyboard",
+        "price": 1138.49,
+        "category": "Fashion",
+        "quantity": 3,
+        "is_returned": false
+    },
+    {
+        "transaction_id": 12,
+        "customer_name": "Daisy",
+        "product": "Smartphone",
+        "price": 172.0,
+        "category": "Home",
+        "quantity": 5,
+        "is_returned": false
+    },
+    {
+        "transaction_id": 13,
+        "customer_name": "",
+        "product": "Laptop",
+        "price": 351.61,
+        "category": "",
+        "quantity": 4,
+        "is_returned": "yes"
+    },
+    {
+        "transaction_id": 14,
+        "customer_name": "John",
+        "product": "Tablet",
+        "price": "",
+        "category": "Electronics",
+        "quantity": 2,
+        "is_returned": null
+    },
+    {
+        "transaction_id": 15,
+        "customer_name": "Alice",
+        "product": "Tablet",
+        "price": 664.65,
+        "category": "Electronics",
+        "quantity": 4,
+        "is_returned": "yes"
+    },
+    {
+        "transaction_id": 16,
+        "customer_name": "",
+        "product": "Tablet",
+        "price": 1790.27,
+        "category": "Toys",
+        "quantity": 4,
+        "is_returned": "yes"
+    },
+    {
+        "transaction_id": 17,
+        "customer_name": "Eve",
+        "product": "Monitor",
+        "price": 256.31,
+        "category": "Fashion",
+        "quantity": 3,
+        "is_returned": false
+    },
+    {
+        "transaction_id": 18,
+        "customer_name": "Alice",
+        "product": "Monitor",
+        "price": 248.67,
+        "category": "Home",
+        "quantity": 5,
+        "is_returned": true
+    },
+    {
+        "transaction_id": 19,
+        "customer_name": "",
+        "product": "Tablet",
+        "price": 678.65,
+        "category": "Books",
+        "quantity": 1,
+        "is_returned": "no"
+    },
+    {
+        "transaction_id": 20,
+        "customer_name": "Eve",
+        "product": "Keyboard",
+        "price": 1193.39,
+        "category": "Fashion",
+        "quantity": 5,
+        "is_returned": true
+    },
+    {
+        "transaction_id": 21,
+        "customer_name": "Charlie",
+        "product": "Charger",
+        "price": "",
+        "category": "Toys",
+        "quantity": 1,
+        "is_returned": "yes"
+    },
+    {
+        "transaction_id": 22,
+        "customer_name": "John",
+        "product": "Tablet",
+        "price": 687.07,
+        "category": "Fashion",
+        "quantity": 2,
+        "is_returned": true
+    },
+    {
+        "transaction_id": 24,
+        "customer_name": "Daisy",
+        "product": "Monitor",
+        "price": 1545.17,
+        "category": "Fashion",
+        "quantity": 1,
+        "is_returned": "yes"
+    },
+    {
+        "transaction_id": 25,
+        "customer_name": "John",
+        "product": "Charger",
+        "price": 1542.55,
+        "category": "Home",
+        "quantity": 1,
+        "is_returned": false
+    },
+    {
+        "transaction_id": 27,
+        "customer_name": "Frank",
+        "product": "Laptop",
+        "price": 123.73,
+        "category": "Home",
+        "quantity": 4,
+        "is_returned": null
+    },
+    {
+        "transaction_id": 28,
+        "customer_name": "Grace",
+        "product": "Headphones",
+        "price": "",
+        "category": "Books",
+        "quantity": 1,
+        "is_returned": "no"
+    },
+    {
+        "transaction_id": 29,
+        "customer_name": "Ivan",
+        "product": "Mouse",
+        "price": 1135.42,
+        "category": "Electronics",
+        "quantity": 3,
+        "is_returned": null
+    },
+    {
+        "transaction_id": 30,
+        "customer_name": "Frank",
+        "product": "Charger",
+        "price": 442.37,
+        "category": "Books",
+        "quantity": 3,
+        "is_returned": false
+    },
+    {
+        "transaction_id": 31,
+        "customer_name": "Grace",
+        "product": "Charger",
+        "price": 1520.93,
+        "category": "Fashion",
+        "quantity": 4,
+        "is_returned": null
+    },
+    {
+        "transaction_id": 33,
+        "customer_name": "Daisy",
+        "product": "Keyboard",
+        "price": 1538.14,
+        "category": "Books",
+        "quantity": 1,
+        "is_returned": false
+    },
+    {
+        "transaction_id": 34,
+        "customer_name": "Bob",
+        "product": "Smartphone",
+        "price": 1772.62,
+        "category": "Toys",
+        "quantity": 1,
+        "is_returned": "no"
+    },
+    {
+        "transaction_id": 35,
+        "customer_name": "Frank",
+        "product": "Headphones",
+        "price": "",
+        "category": "Books",
+        "quantity": 4,
+        "is_returned": false
+    },
+    {
+        "transaction_id": 36,
+        "customer_name": "",
+        "product": "Tablet",
+        "price": 350.96,
+        "category": "Home",
+        "quantity": 4,
+        "is_returned": "no"
+    },
+    {
+        "transaction_id": 37,
+        "customer_name": "Daisy",
+        "product": "Speaker",
+        "price": 249.51,
+        "category": "",
+        "quantity": 3,
+        "is_returned": "no"
+    },
+    {
+        "transaction_id": 38,
+        "customer_name": "Daisy",
+        "product": "Mouse",
+        "price": 1576.43,
+        "category": "Books",
+        "quantity": 2,
+        "is_returned": false
+    },
+    {
+        "transaction_id": 39,
+        "customer_name": "",
+        "product": "Speaker",
+        "price": 176.01,
+        "category": "Electronics",
+        "quantity": 4,
+        "is_returned": null
+    },
+    {
+        "transaction_id": 40,
+        "customer_name": "Ivan",
+        "product": "Monitor",
+        "price": 1275.04,
+        "category": "Fashion",
+        "quantity": 4,
+        "is_returned": true
+    },
+    {
+        "transaction_id": 41,
+        "customer_name": "Frank",
+        "product": "Laptop",
+        "price": 1396.83,
+        "category": "Fashion",
+        "quantity": 5,
+        "is_returned": "no"
+    },
+    {
+        "transaction_id": 42,
+        "customer_name": "Daisy",
+        "product": "Keyboard",
+        "price": "",
+        "category": "Books",
+        "quantity": 2,
+        "is_returned": false
+    },
+    {
+        "transaction_id": 43,
+        "customer_name": "Eve",
+        "product": "Mouse",
+        "price": 1629.43,
+        "category": "Toys",
+        "quantity": 1,
+        "is_returned": true
+    },
+    {
+        "transaction_id": 44,
+        "customer_name": "",
+        "product": "Speaker",
+        "price": 785.64,
+        "category": "Home",
+        "quantity": 1,
+        "is_returned": true
+    },
+    {
+        "transaction_id": 45,
+        "customer_name": "",
+        "product": "Charger",
+        "price": 228.99,
+        "category": "",
+        "quantity": 1,
+        "is_returned": true
+    },
+    {
+        "transaction_id": 46,
+        "customer_name": "John",
+        "product": "Headphones",
+        "price": 1019.48,
+        "category": "Electronics",
+        "quantity": 2,
+        "is_returned": "yes"
+    },
+    {
+        "transaction_id": 47,
+        "customer_name": "Frank",
+        "product": "Tablet",
+        "price": 1742.09,
+        "category": "Toys",
+        "quantity": 4,
+        "is_returned": "yes"
+    },
+    {
+        "transaction_id": 48,
+        "customer_name": "Charlie",
+        "product": "Speaker",
+        "price": 1934.34,
+        "category": "Books",
+        "quantity": 3,
+        "is_returned": null
+    },
+    {
+        "transaction_id": 49,
+        "customer_name": "John",
+        "product": "Monitor",
+        "price": "",
+        "category": "Home",
+        "quantity": 1,
+        "is_returned": null
+    },
+    {
+        "transaction_id": 50,
+        "customer_name": "John",
+        "product": "Charger",
+        "price": 986.98,
+        "category": "Fashion",
+        "quantity": 4,
+        "is_returned": false
+    }
+]

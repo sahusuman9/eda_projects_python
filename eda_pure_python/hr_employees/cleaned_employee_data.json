@@ -1,0 +1,74 @@
+[
+    {
+        "employee_id": 3,
+        "name": "Frank",
+        "department": "Sales",
+        "salary": 35000,
+        "age": 30,
+        "job_role": "Analyst"
+    },
+    {
+        "employee_id": 8,
+        "name": "Daisy",
+        "department": "Tech",
+        "salary": 50000,
+        "age": 40,
+        "job_role": "Executive"
+    },
+    {
+        "employee_id": 9,
+        "name": "Ivan",
+        "department": "Sales",
+        "salary": 50000,
+        "age": 30,
+        "job_role": "Analyst"
+    },
+    {
+        "employee_id": 12,
+        "name": "Grace",
+        "department": "Sales",
+        "salary": 35000,
+        "age": 30,
+        "job_role": "Intern"
+    },
+    {
+        "employee_id": 16,
+        "name": "Ivan",
+        "department": "HR",
+        "salary": 35000,
+        "age": 35,
+        "job_role": "Analyst"
+    },
+    {
+        "employee_id": 17,
+        "name": "Eve",
+        "department": "Support",
+        "salary": 45000,
+        "age": 35,
+        "job_role": "Manager"
+    },
+    {
+        "employee_id": 20,
+        "name": "Daisy",
+        "department": "Support",
+        "salary": 45000,
+        "age": 25,
+        "job_role": "Analyst"
+    },
+    {
+        "employee_id": 23,
+        "name": "Frank",
+        "department": "Support",
+        "salary": 45000,
+        "age": 25,
+        "job_role": "Intern"
+    },
+    {
+        "employee_id": 25,
+        "name": "John",
+        "department": "Tech",
+        "salary": 35000,
+        "age": 35,
+        "job_role": "Executive"
+    }
+]
